@@ -1,2 +1,2 @@
-# dio-desafio-primeiro-repositorio
-Desafio DIO: Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso
+# Desafio DIO: Criando meu primeiro repositório
+Repositório feito para o desafio DIO. 
